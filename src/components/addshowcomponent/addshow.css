@@ -1,0 +1,21 @@
+.form-component {
+    margin: auto;
+    padding: 40px;
+    max-width: 550px;
+}
+
+.showmovies-form {
+    width: 400px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+}
+.label{
+    padding-top: 13px;
+    padding-bottom: 13px;
+}
+.button{
+    margin-top: 15px;
+}

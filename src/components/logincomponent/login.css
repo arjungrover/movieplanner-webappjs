@@ -1,0 +1,32 @@
+.form-component {
+    margin: auto;
+    padding: 40px;
+    max-width: 550px;
+}
+
+.login-form {
+    width: 400px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+}
+.Signup-Link{
+    position: absolute;
+    left: 44%;
+    padding: 16px;
+
+}
+.label{
+    padding-top: 13px;
+    padding-bottom: 13px;
+}
+.button{
+    margin-top: 15px;
+}
+.home-Link{
+    position: absolute;
+    left: 37%;
+    padding: 16px;
+}

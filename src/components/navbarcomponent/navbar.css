@@ -1,0 +1,28 @@
+.navbar-component{
+    border: 1px solid black;
+}
+.navbar-elements {
+    padding: 18px 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-items {
+    margin-right: 40px;
+    cursor: pointer;
+    padding: 4px 8px;
+    border-radius: 5px;
+}
+.home{
+    position: absolute;
+    left: 30%;
+}
+.addmovie{
+    position: absolute;
+    left: 60%;
+}
+.addshow{
+    position: absolute;
+    left: 80%;
+}

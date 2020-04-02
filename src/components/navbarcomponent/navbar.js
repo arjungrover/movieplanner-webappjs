@@ -15,7 +15,7 @@ function NavbarComponent(props) {
     }, [])
     
     let loggedInError = useSelector(state => state.user.error);
-    
+    console.log(loggedInError);
     const logout = () => {
         props.logout();
     }
